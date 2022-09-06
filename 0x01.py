@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-number = 2021
+year = 2021
 # YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
